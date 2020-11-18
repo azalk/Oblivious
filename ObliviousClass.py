@@ -83,7 +83,7 @@ class  ObliviousData:
         return self.Ot 
     
     
-    def predict_g(self,Kt, St): #for M-Oblivious SVM
+    def predict_g(self,Kt, St): #for M-Oblivious 
         m = (np.shape(Kt))[0]#kt has size testsample x 2n 
         mean_test_iI = np.zeros((self.n,self.S_max))
         mean_test_i = np.zeros((self.n,1))
