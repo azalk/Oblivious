@@ -1,8 +1,10 @@
-Implementation of the methods provided by the following paper.
+# Implementation of the methods provided by the following paper.
 
-S. Grünewälder, A. Khaleghi, Oblivious Data for Fairness with Kernels, arXiv:2002.02901.
+*S. Grünewälder, A. Khaleghi, "[Oblivious Data for Fairness with Kernels](https://arxiv.org/abs/2002.02901)" 
+arXiv preprint arXiv:2002.02901 (2018).*
 
-Please cite as
+Bibtex citation:
+```
 @misc{grünewälder2020oblivious,
       title={Oblivious Data for Fairness with Kernels}, 
       author={Steffen Grünewälder and Azadeh Khaleghi},
@@ -11,3 +13,4 @@ Please cite as
       archivePrefix={arXiv},
       primaryClass={stat.ML}
 }
+```
